@@ -1,0 +1,1 @@
+- url: class=j_th_tit
