@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "cd server && node index.js"
   },
   "author": "",
   "license": "ISC",
@@ -13,6 +13,7 @@
     "cheerio": "^1.0.0-rc.2",
     "http": "0.0.0",
     "https": "^1.0.0",
-    "iconv-lite": "^0.4.24"
+    "iconv-lite": "^0.4.24",
+    "nodejieba": "^2.3.0"
   }
 }
